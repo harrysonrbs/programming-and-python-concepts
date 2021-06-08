@@ -27,6 +27,5 @@ solicitando dados mais específicos ao usuário.
 login = input("Login: ")
 password = input("Password: ")
 
-
-
-
+print(login)
+print(password)
